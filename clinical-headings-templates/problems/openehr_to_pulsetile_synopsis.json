@@ -1,0 +1,6 @@
+{
+  "sourceId": "{{sourceId}}",
+  "source": "etherCIS",
+  "text": "{{problem_list.problems_and_issues.problem_diagnosis[0]['problem_diagnosis_name|value']}}",
+  "dateCreated": "=> getTime(problem_list.context.start_time"
+}

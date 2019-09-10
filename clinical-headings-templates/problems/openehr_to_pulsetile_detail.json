@@ -1,0 +1,13 @@
+{
+  "author": "{{problem_list['composer|name']}}",
+  "code": "{{problem_list.problems_and_issues.problem_diagnosis[0]['problem_diagnosis_name|code']}}",
+  "dateCreated": "=> getTime(problem_list.context.start_time)",
+  "dateOfOnset": "=> getTime(problem_list.problems_and_issues.problem_diagnosis[0].date_time_of_onset)",
+  "description": "{{problem_list.problems_and_issues.problem_diagnosis[0].clinical_description}}",
+  "originalComposition": "",
+  "originalSource": "",
+  "problem": "{{problem_list.problems_and_issues.problem_diagnosis[0]['problem_diagnosis_name|value']}}",
+  "source": "ethercis",
+  "sourceId": "{{sourceId}}",
+  "terminology": "SNOMED-CT"
+}

@@ -1,0 +1,26 @@
+{
+    "headings": {
+        "allergies": {
+            "templateId": "IDCR - Adverse Reaction List.v1"
+        },
+        "medications": {
+            "templateId": "IDCR - Medication Statement List.v0"
+        },
+        "problems": {
+            "templateId": "IDCR - Problem List.v1"
+        },
+        "vaccinations": {
+            "templateId": "IDCR - Immunisation summary.v0"
+        },
+        "contacts": {
+            "templateId": "IDCR - Relevant contacts.v0"
+        },
+        "events": {
+            "templateId": "IDCR - Service tracker.v0"
+        },
+        "vitalsigns": {
+            "templateId": "IDCR - Vital Signs Encounter.v1"
+        }
+    },
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1Njc4NTM0MzEsImlhdCI6MTU2Nzg1MjIzMSwiaXNzIjoicWV3ZC5qd3QiLCJhcHBsaWNhdGlvbiI6Im9wZW5laHJfc2VydmljZSIsInRpbWVvdXQiOjEyMDAsInFld2QiOiJjMjA0ZjEzNmFkNDc2MDViMzM5MmRjYTJiZDBjMmY5MzY0ZTVlNTQ5YTg2M2EyOWI2ZTc3MjQwOWYwZTM1YTI5NDJkMDAxOTdkZWNhYzFiMDIzNjZhYjlhZDNiZjk3ZDMxZDJmNGQxNDhhZmIzNTU0NDZjNjA0ZmRmODUzMDhmZTU5OGY3Mzk5NzYxODhlNTgwZWIzMzgwZjZhMDQ4NjlmMjdiNWU0MGZkZjU1MmNlODIwNTU2Y2UzZDk2NzUwMTMiLCJpc0F1dGhlbnRpY2F0ZWQiOnRydWUsInJvbGUiOiJpZGNyIiwiZmlyc3ROYW1lIjoiUm9iIiwibGFzdE5hbWUiOiJUd2VlZCIsInVpZCI6IjIyZTJmMTc0ZDAyZjhkZTNlNzFjOTRiNGUyNmQ4YTMwODk3NzVhNTAyYzkyNDJmMTEyMDg4MjI3MDFjMTQ2YjciLCJvcGVuaWQiOnsic3ViIjoxLCJmYW1pbHlfbmFtZSI6IlR3ZWVkIiwiZ2l2ZW5fbmFtZSI6IlJvYiIsInVzZXJJZCI6OTk5OTk5OTAwMSwicm9sZSI6ImlkY3IiLCJlbWFpbCI6InJvYi50d2VlZEBleGFtcGxlLmNvbSIsImF0X2hhc2giOiJaVlJMb0o1alZkbDNUWWFwM1RvaW93Iiwic2lkIjoiYzc1ZmJhYTEtMGY5MS00NDY2LWExYzQtOGY0NTQ4NDViNThjIiwiYXVkIjoidGVzdF9jbGllbnQiLCJleHAiOjE1Njc4NTMyNjQsImlhdCI6MTU2Nzg1MjA2NCwiaXNzIjoiaHR0cDovLzE1Ny4yNDUuNDUuMjI6ODA4MS9vcGVuaWQiLCJpZF90b2tlbiI6ImV5SmhiR2NpT2lKU1V6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0ltdHBaQ0k2SWxCa1RYZHZaME5vY2xkWlpHMWpjbTlaTmtwQ2RHWkdOM3BFWmtaVGMzZEhTM1IzTjJ0NWJXSklUa2tpZlEuZXlKemRXSWlPakVzSW1aaGJXbHNlVjl1WVcxbElqb2lWSGRsWldRaUxDSm5hWFpsYmw5dVlXMWxJam9pVW05aUlpd2lkWE5sY2tsa0lqbzVPVGs1T1RrNU1EQXhMQ0p5YjJ4bElqb2lhV1JqY2lJc0ltVnRZV2xzSWpvaWNtOWlMblIzWldWa1FHVjRZVzF3YkdVdVkyOXRJaXdpWVhSZmFHRnphQ0k2SWxwV1VreHZTalZxVm1Sc00xUlpZWEF6Vkc5cGIzY2lMQ0p6YVdRaU9pSmpOelZtWW1GaE1TMHdaamt4TFRRME5qWXRZVEZqTkMwNFpqUTFORGcwTldJMU9HTWlMQ0poZFdRaU9pSjBaWE4wWDJOc2FXVnVkQ0lzSW1WNGNDSTZNVFUyTnpnMU16STJOQ3dpYVdGMElqb3hOVFkzT0RVeU1EWTBMQ0pwYzNNaU9pSm9kSFJ3T2k4dk1UVTNMakkwTlM0ME5TNHlNam80TURneEwyOXdaVzVwWkNKOS5ZQXdOTVFvSUFka0pJbG81cG9VZTd6QWRKRnpBa1I5X2c4cUFHWklNS2RWbkNNVlByVVhPVEpBbzYwUmllUDc1TkRKRDdUTXNmN1I5dDVFZXFoVTdpUDlqU3VNUjBzbklVWWF6cDFfUE81bXFkeGN3Z0c0UlcwT09HSGRYUnowVFAwODdvMEJSa3V2eHRRUzRKSXZfSXhiS08wQlZHSHF3ZHhMNlBYY196TTZzNno2Z0R1ZWFTSGY3UlFzaGJ3ajJhblR6Vm1nNDQ0dDExRzMxMzVrTXZaYmNuVmdXNTR4cFJ2TjJpWW1FVEFGY0I5eTN5NGJOeldfM2IzLUZIZVotR2hSM0QtUmQwOUtZU1RiQ3dyVGhCbzRuS1hld1BrclJYT1o1OVVtT0RsbWhaZk12SF81Q0JiQnV6QmtfZTVtMlkyVGIzZmNNWkI0ZlRIRDFPS3M2Q1EifX0.HwLyN-DUvFu0XQGp-mK7PsCr_HCYVVdJWtTVequNg-k"
+}
