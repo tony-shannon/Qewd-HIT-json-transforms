@@ -1,0 +1,7 @@
+{
+    "source": "ethercis",
+    "sourceId": "{{sourceId}}",
+    "name": "{{relevant_contacts_list.relevant_contacts.relevant_contact[0].individual_person.person_name.unstructured_name}}",
+    "relationship": "{{relevant_contacts_list.relevant_contacts.relevant_contact[0].relationship_role}}",
+    "nextOfKin": "{{relevant_contacts_list.relevant_contacts.relevant_contact[0].is_next_of_kin}}"
+}

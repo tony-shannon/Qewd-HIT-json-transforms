@@ -1,0 +1,15 @@
+{
+  "source": "ethercis",
+  "sourceId": "{{sourceId}}",
+  "author": "{{ctx.composer_name}}",
+  "dateCreated": "=>now()",
+  "newsScore": "{{vital_signs_observations.vital_signs.news_uk_rcp.total_score}}",
+  "respirationRate": "{{vital_signs_observations.vital_signs.respirations['rate|magnitude']}}",
+  "oxygenSupplemental": "=>getOnAir(vital_signs_observations.vital_signs.respirations.inspired_oxygen.on_air)",
+  "heartRate": "{{vital_signs_observations.vital_signs.pulse_heart_beat['heart_rate|magnitude']}}",
+  "temperature": "{{vital_signs_observations.vital_signs.body_temperature['temperature|magnitude']}}",
+  "levelOfConsciousness": "=>getLevelOfConsciousness(vital_signs_observations.vital_signs.avpu['avpu_observation|code'])",
+  "systolicBP": "{{vital_signs_observations.vital_signs.blood_pressure['systolic|magnitude']}}",
+  "diastolicBP": "{{vital_signs_observations.vital_signs.blood_pressure['diastolic|magnitude']}}",
+  "oxygenSaturation": "{{vital_signs_observations.vital_signs.indirect_oximetry['spo2|numerator']}}"
+}

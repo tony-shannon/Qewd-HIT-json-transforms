@@ -1,0 +1,6 @@
+{
+  "sourceId": "{{sourceId}}",
+  "source": "ethercis",
+  "text": "{{relevant_contacts_list.relevant_contacts.relevant_contact[0].individual_person.person_name.unstructured_name}}",
+  "dateCreated": "=> now()"
+}

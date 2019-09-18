@@ -1,0 +1,9 @@
+{
+  "source": "ethercis",
+  "sourceId": "{{sourceId}}",
+  "dateCreated": "=>now()",
+  "type": "{{service_tracker.service[0].service_type}}",
+  "name": "{{service_tracker.service[0].service_name}}",
+  "description": "{{service_tracker.service[0].description}}",
+  "dateTime": "=>getTime(service_tracker.service[0].time)"
+}

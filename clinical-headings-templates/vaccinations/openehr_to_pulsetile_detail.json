@@ -1,0 +1,10 @@
+{
+  "author": "{{ctx.composer_name}}",
+  "comment": "{{immunisation_summary.immunisation_procedure[0].comment}}",
+  "dateCreated": "=>now()",
+  "series": "{{immunisation_summary.immunisation_procedure[0].series_number}}",
+  "source": "ethercis",
+  "sourceId": "{{sourceId}}",
+  "vaccinationDateTime": "=>getTime(immunisation_summary.immunisation_procedure[0].time)",
+  "vaccinationName": "{{immunisation_summary.immunisation_procedure[0].immunisation_name}}"
+}

@@ -1,0 +1,10 @@
+{
+  "author": "{{ctx.composer_name}}",
+  "dateCreated": "=>now()",
+  "dateTime": "=>getTime(service_tracker.service[0].time)",
+  "description": "{{service_tracker.service[0].description}}",
+  "name": "{{service_tracker.service[0].service_name}}",
+  "source": "ethercis",
+  "sourceId": "{{sourceId}}",
+  "type": "{{service_tracker.service[0].service_type}}"
+}
